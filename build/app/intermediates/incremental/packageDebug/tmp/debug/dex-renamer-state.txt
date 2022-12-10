@@ -1,0 +1,4 @@
+#Tue Sep 27 18:10:11 IST 2022
+base.0=/Users/krishnarajput/Documents/development/meal_app/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
